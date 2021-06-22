@@ -1,0 +1,83 @@
+.navbar{
+	background:#05386B;
+}
+.nav-item{
+	margin:5px;
+	font-variant: small-caps;
+	font-weight: bold
+}
+
+.jumbotron{
+    background: #5CDB95;
+    color:#05386B;
+    font-weight:bold;
+}
+.jumbotron h2{
+	margin-top:3px;
+	font-size:160%;
+}
+.jumbotron p{
+	color:#008040;
+	font-size:120%;
+}
+#About{
+	background:#8EE4AF;
+	color:#05386B;
+	font-size:120%;
+}
+
+.card{
+
+	background:#05386B;
+	color:white;
+}
+
+#Projects .card:hover{
+  transform: scale(1.07); 
+}			
+#Projects{
+	background:#8EE4AF;
+	
+}
+#Skills{
+	background:#8EE4AF;
+	color:#05386B;
+}
+.skill-item{
+	font-size:110%;
+
+}
+
+#Contact .card{
+	background:#05386B;
+	color:white;
+}
+.card-header{
+	text-align: center;
+	font-size:180%;
+
+	background:#00264d
+}
+.card-body{
+	padding:10%;
+}
+#Extracurriculars{
+	background:#8EE4AF;
+	color:#05386B;
+}
+.extra{
+	background-color: #05386B;;
+	color:white;
+}
+.extra-item{
+	width:50%;
+}
+h3{
+	font-size:150%;
+}
+footer{
+	text-align:center;
+	background:#8EE4AF;
+	color:#05386B;
+
+}
